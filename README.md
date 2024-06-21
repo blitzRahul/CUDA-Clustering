@@ -1,2 +1,2 @@
 # CUDA-Clustering
- Parallel K-Means Clustering
+!!! Under development !!!
