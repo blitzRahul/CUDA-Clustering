@@ -1,2 +1,3 @@
 # CUDA-Clustering
- Parallel K-Means Clustering
+!!! Under development !!!
+Code @ Cudaruntime1/kernal.cu
